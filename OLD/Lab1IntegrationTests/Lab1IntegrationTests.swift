@@ -26,6 +26,21 @@ class Lab1IntegrationTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         XCTAssert(true) //añadimos este test
     }
+    func testExample2() {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(true) //añadimos este test
+    }
+    func testExample3() {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(true) //añadimos este test
+    }
+    func testExample4() {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(true) //añadimos este test
+    }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
